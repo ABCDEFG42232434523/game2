@@ -1,0 +1,28 @@
+.game-title {
+    font-size: 4rem;
+    text-align: center;
+    color: red;
+}
+
+.start-index {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50rem;
+    height: 500px;
+    border-style: solid;
+    border-radius: 10%;
+}
+
+.game-playing-button, .game-help-button {
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    background-color: red;
+    font-size: 3rem;
+    color: white;
+    border-radius: 20px;
+}
+
+.game-help-button {
+    top: 20rem;
+}
